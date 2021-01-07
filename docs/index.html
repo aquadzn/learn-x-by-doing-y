@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Learn X by doing Y</title>
+    <link rel="icon"
+        href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📖</text></svg>">
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.3.1/themes/reset-min.css"
+        integrity="sha256-t2ATOGCtAIZNnzER679jwcFcKYfLlw01gli6F6oszk8=" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Karla:wght@400;600;700&family=Rubik:wght@400;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.5.1/dist/algoliasearch-lite.umd.js"
+        integrity="sha256-EXPXz4W6pQgfYY3yTpnDa3OH8/EPn16ciVsPQ/ypsjk=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.8.3/dist/instantsearch.production.min.js"
+        integrity="sha256-LAGhRRdtVoD6RLo2qDQsU2mp+XVSciKRC8XPOBWmofM=" crossorigin="anonymous"></script>
+</head>
+
+<body class="bg-black">
+    <section class="py-8 px-4 text-center">
+        <div class="w-full max-w-4xl mx-auto">
+            <div class="flex justify-center space-x-8 md:space-x-20">
+                <a href="https://github.com/aquadzn/learn-x-by-doing-y" target="_blank" class="cursor-pointer text-sm text-gray-200 font-bold hover:underline">LEARNXBYDOINGY</a>
+            </div>
+            <div>
+                <h2 id="header"
+                    class="text-5xl leading-tight md:text-7xl md:leading-tight text-white font-semibold mt-10 mb-6">What
+                    do you want to
+                    learn today
+                    ?</h2>
+
+                <p class="mb-10 font-semibold text-gray-400 leading-relaxed">
+                    Project Based Learning is a teaching method in which students gain knowledge and skills
+                    by working for an extended period of time to investigate
+                    and respond to an authentic, engaging, and complex question, problem, or challenge.
+                </p>
+                <div class="container mx-auto">
+                    <div class="flex justify-center space-x-4 md:space-x-10">
+                        <div class="bg-black" id="searchbox"></div>
+                        <div
+                            class="rounded-md shadow-lg px-5 py-3 font-bold text-white bg-purple-500 transition duration-500 ease-in-out hover:bg-purple-600 hover:underline hover:text-gray-100">
+                            <a href="https://github.com/aquadzn/learn-x-by-doing-y/blob/main/CONTRIBUTING.md" target="_blank">
+                                Add a project
+                            </a>
+                        </div>
+                    </div>
+                    <div id="pagination" class="flex p-4"></div>
+                </div>
+
+
+                <section class="container mx-auto">
+                    <div id="hits"
+                        class="md:mt-4 grid grid-cols-2 gap-x-4 gap-y-2 md:grid-cols-4 md:gap-x-8 md:gap-y-4">
+                    </div>
+                </section>
+            </div>
+        </div>
+    </section>
+    <script src="main.js"></script>
+</body>
+
+</html>
