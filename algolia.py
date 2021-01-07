@@ -1,7 +1,6 @@
 import os
 import csv
 
-import requests
 from algoliasearch.search_client import SearchClient
 
 
