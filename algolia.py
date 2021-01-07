@@ -25,4 +25,4 @@ def add_records(filename: str):
 
 
 if __name__ == "__main__":
-    add_records("/github/workspace/projects.csv")
+    add_records("projects.csv")
