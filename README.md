@@ -1,9 +1,10 @@
 # Learn X by doing Y
 
 
-🛠️ Learn a technology X by doing a project Y
+## 🛠️ Learn a technology X by doing a project Y
 
-[Website](https://aquadzn.github.io/learn-x-by-doing-y)
+#### [Website](https://aquadzn.github.io/learn-x-by-doing-y)
+
 
 You can contribute by adding projects to the CSV file. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
