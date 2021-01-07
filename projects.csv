@@ -45,7 +45,6 @@ How to write a super fast link shortener with Elixir, Phoenix, and Mnesia;https:
 ChatBus : build your first multi-user chat room app with Erlang/OTP;https://medium.com/@kansi/chatbus-build-your-first-multi-user-chat-room-app-with-erlang-otp-b55f72064901;Erlang
 Making a Chat App with Erlang, Rebar, Cowboy and Bullet;http://marianoguerra.org/posts/making-a-chat-app-with-erlang-rebar-cowboy-and-bullet.html;Erlang
 Write your own Excel in 100 lines of F#;http://tomasp.net/blog/2018/write-your-own-excel;F#
-Build an Interpreter;http://www.craftinginterpreters.com/;Java
 Build a Simple HTTP Server with Java;http://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html;Java
 Build an Android Flashlight App;https://www.youtube.com/watch?v=dhWL4DC7Krs;Java
 Build a Spring Boot App with User Authentication;https://scotch.io/tutorials/build-a-spring-boot-app-with-user-authentication;Java
@@ -189,7 +188,7 @@ Build the Game of Life;https://robertheaton.com/2018/07/20/project-2-game-of-lif
 Create terminal ASCII art;https://robertheaton.com/2018/06/12/programming-projects-for-advanced-beginners-ascii-art/;Python
 Write a Tic-Tac-Toe AI;https://robertheaton.com/2018/10/09/programming-projects-for-advanced-beginners-3-a/;Python
 Create photomosaic art;https://robertheaton.com/2018/11/03/programming-project-4-photomosaics/;Python
-Build the game "Snake" in the terminal;https://robertheaton.com/2018/12/02/programming-project-5-snake/;Python
+Build the game Snake in the terminal;https://robertheaton.com/2018/12/02/programming-project-5-snake/;Python
 Write yourself a Git;https://wyag.thb.lt/;Python
 A Python implementation of a Python bytecode runner;https://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html;Python
 Create a Real Time Chat App with Golang, Angular 2, and WebSocket;https://www.thepolyglotdeveloper.com/2016/12/create-real-time-chat-app-golang-angular-2-websockets/;Golang
@@ -426,3 +425,160 @@ Getting Started with Rust by Building a Tiny Markdown Compiler;https://jesselaws
 Learn Rust by writing a simple game;https://opensource.com/article/20/12/learn-rust;Rust
 Learn what is a Blockchain by creating one in NodeJS;https://developers.caffeina.com/chiccocoin-learn-what-is-a-blockchain-by-creating-one-in-nodejs-12929a89208b?gi=625cde329489;NodeJS
 Learn React by building the HackerNews front page;https://github.com/mking/react-hn;React
+Implementing a Virtual Machine in C;https://felixangell.com/blogs/virtual-machine-in-c;C/C++
+Writing a Game Boy emulator;https://cturt.github.io/cinoop.html;C/C++
+HTTP Server: Everything you need to know to Build a simple HTTP server from scratch;https://medium.com/from-the-scratch/http-server-what-do-you-need-to-know-to-build-a-simple-http-server-from-scratch-d1ef8945e4fa;C/C++
+Write an MQTT broker from scratch;https://codepr.github.io/posts/sol-mqtt-broker;C/C++
+Let's code a TCP/IP stack;http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/;C/C++
+Astroids Clone;https://gtk.dashgl.com/?folder=Astroids;C/C++
+Brickout Clone;https://gtk.dashgl.com/?folder=Brickout;C/C++
+Chess Engine In C;https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg ;C/C++
+Coding A Sudoku Solver in C;https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW ;C/C++
+Coding a Rogue/Nethack RPG in C;https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G ;C/C++
+Create a Game Loop using C and SDL;https://www.udemy.com/course/game-loop-c-sdl/ ;C/C++
+Creating a 2D platformer;https://www.parallelrealities.co.uk/tutorials/#ppp;C/C++
+Creating a 2D shoot 'em up;https://www.parallelrealities.co.uk/tutorials/#shooter;C/C++
+Creating a 2D top-down shooter;https://www.parallelrealities.co.uk/tutorials/#bad;C/C++
+Handmade Hero;https://handmadehero.org/  ;C/C++
+Hangman;https://www.youtube.com/playlist?list=PLZ1QII7yudbd2ZHYSEWrSddsvD5PW_r5O ;C/C++
+How to Program a Text Adventure in C;https://helderman.github.io/htpataic/htpataic01.html ;C/C++
+Implementing Solitaire in C;https://jborza.github.io/games/2020/07/12/solitaire-cli.html;C/C++
+Invaders Clone;https://gtk.dashgl.com/?folder=Invaders;C/C++
+Learn How To Develop Your Own GameBoy Games;https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo  ;C/C++
+Learn Video Game Programming in C;https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt ;C/C++
+Let's Make: Dangerous Dave;https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9 ;C/C++
+Making a game in C from scratch;https://www.youtube.com/playlist?list=PL7Ej6SUky1357r-Lqf_nogZWHssXP-hvH ;C/C++
+Making a Video Game from Scratch in C;https://www.youtube.com/playlist?list=PLlaINRtydtNWuRfd4Ra3KeD6L9FP_tDE7  ;C/C++
+On Tetris and Reimplementation;https://brennan.io/2015/06/12/tetris-reimplementation/;C/C++
+SDL 2 Isometric Game Tutorial;https://www.youtube.com/playlist?list=PL6Ikt4l3NbVjb7WR-eTgjOBMNCn7f3u7x  ;C/C++
+Simple Tic Tac Toe in C;https://www.youtube.com/playlist?list=PLZ1QII7yudbc7_ZgXA-gIXmME41Rs2GP5 ;C/C++
+Tic-tac-toe Game in C with SDL;https://www.youtube.com/watch?v=gCVMkKgs3uQ;C/C++
+Write The Old-School Fire Effect and Bare-Metal Programming in Assembly and C;https://www.hanshq.net/fire.html;C/C++
+Writing 2D Games in C using SDL;https://www.youtube.com/watch?v=yFLa3ln16w0;C/C++
+Writing a Game Boy Advance Game;https://www.reinterpretcast.com/writing-a-game-boy-advance-game;C/C++
+Build a minimal multi-tasking OS kernel for ARM from scratch;https://github.com/jserv/mini-arm-os;C/C++
+Build Your Own Shell;https://github.com/tokenrove/build-your-own-shell;C/C++
+Building an Operating System for the Raspberry Pi;https://jsandler18.github.io/;C/C++
+Hack the Virtual Memory;https://blog.holbertonschool.com/hack-virtual-memory-stack-registers-assembly-code/;C/C++
+How to Create an OS from Scratch;https://github.com/cfenollosa/os-tutorial ;C/C++
+Learning operating system development using Linux kernel and Raspberry Pi;https://github.com/s-matyukevich/raspberry-pi-os ;C/C++
+Let's build a shell!;https://github.com/kamalmarhubi/shell-workshop;C/C++
+Let's Write a Malloc;https://danluu.com/malloc-tutorial/;C/C++
+Roll your own toy UNIX-clone OS;http://www.jamesmolloy.co.uk/tutorial_html/;C/C++
+Write a Simple Memory Allocator;https://arjunsreedharan.org/post/148675821737/write-a-simple-memory-allocator;C/C++
+Write a System Call;https://brennan.io/2016/11/14/kernel-dev-ep3/;C/C++
+Writing a shell in C;https://danishprakash.github.io/2018/01/15/write-a-shell.html;C/C++
+Writing a Unix Shell;https://indradhanush.github.io/blog/writing-a-unix-shell-part-1;C/C++
+Baby's First Garbage Collector;http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/;C/C++
+Build Your Own Lisp;http://www.buildyourownlisp.com/ ;C/C++
+Compiler Design in C;https://holub.com/goodies/compiler/compilerDesignInC.pdf ;C/C++
+Crafting Interpreters;http://www.craftinginterpreters.com/  *Chapters 14-30*;C/C++
+Let's Build a Compiler: A C & x86 version;https://github.com/lotabout/Let-s-build-a-compiler;C/C++
+Write a C Interpreter;https://github.com/lotabout/write-a-C-interpreter;C/C++
+Writing a Simple Garbage Collector in C;http://maplant.com/gc.html;C/C++
+A dummy blockchain implementation in C;https://myram.xyz/c-blockchain-implementation-1/;C/C++
+Build Your Own Text Editor;https://viewsourcecode.org/snaptoken/kilo/;C/C++
+How to Write a Video Player in Less Than 1000 Lines;http://dranger.com/ffmpeg/ffmpeg.html;C/C++
+Writing an SVG Library;http://www.codedrome.com/svg-library-in-c/;C/C++
+Introduction to Ray Tracing: a Simple Method for Creating 3D Images;https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work;C/C++
+Raycasting engine of Wolfenstein 3D;http://lodev.org/cgtutor/raycasting.html;C/C++
+Physically Based Rendering:From Theory To Implementation;http://www.pbr-book.org/;C/C++
+Rasterization: a Practical Implementation;https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/overview-rasterization-algorithm;C/C++
+Learning how to write a 3D soft engine from scratch in C#, TypeScript or JavaScript;https://www.davrous.com/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript/;C#, TypeScript, JavaScript
+Build your own 3D renderer;https://avik-das.github.io/build-your-own-raytracer/;Java
+How to create your own simple 3D render engine in pure Java;http://blog.rogach.org/2015/08/how-to-create-your-own-simple-3d-render.html;Java
+A 3D Modeller;http://aosabook.org/en/500L/a-3d-modeller.html;Python
+Augmented Reality with Python and OpenCV;https://bitesofcode.wordpress.com/2017/09/12/augmented-reality-with-python-and-opencv-part-1/;Python, OpenCV
+Building a BitTorrent client from scratch in C#;https://www.seanjoflynn.com/research/bittorrent.html;C#
+Programming The Blockchain in C#;https://programmingblockchain.gitbooks.io/programmingblockchain/;C#
+Neural Network OCR;https://www.codeproject.com/Articles/11285/Neural-Network-OCR;C#
+Building a BitTorrent client from the ground up in Go;https://blog.jse.li/posts/torrent/;Golang
+Building Blockchain in Go;https://jeiwan.cc/posts/building-blockchain-in-go-part-1/;Golang
+Code your own blockchain in less than 200 lines of Go;https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc;Golang
+Build Your Own Container Using Less than 100 Lines of Go;https://www.infoq.com/articles/build-a-container-golang;Golang
+Building a container from scratch in Go;https://www.youtube.com/watch?v=8fi7uSYlOdc ;Golang
+Build a multilayer perceptron with Golang;https://made2591.github.io/posts/neuralnetwork;Golang
+How to build a simple artificial neural network with Go;https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/;Golang
+Building a Neural Net from Scratch in Go;https://datadan.io/blog/neural-net-with-go;Golang
+The Super Tiny Compiler;https://github.com/hazbo/the-super-tiny-compiler;Golang
+Lexical Scanning in Go;https://www.youtube.com/watch?v=HxaD_trXwRE ;Golang
+Writing a simple shell in Go;https://sj14.gitlab.io/post/2018-07-01-go-unix-shell/;Golang
+Let's Create a Simple Load Balancer;https://kasvith.github.io/posts/lets-create-a-simple-lb-go/;Golang
+Write your own bittorrent client;https://allenkim67.github.io/programming/2016/05/04/how-to-make-your-own-bittorrent-client.html;NodeJS
+A BitTorrent client in Python 3.5;http://markuseliasson.se/article/bittorrent-in-python/;Python
+Build your own blockchain: a Python tutorial;http://ecomunsing.com/build-your-own-blockchain;Python
+A Practical Introduction to Blockchain with Python;http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/;Python
+Let’s Build the Tiniest Blockchain;https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b;Python
+How to Build Your First Slack Bot with Python;https://www.fullstackpython.com/blog/build-first-slack-bot-python.html;Python
+How to build a Slack Bot with Python using Slack Events API & Django under 20 minute;https://medium.com/freehunch/how-to-build-a-slack-bot-with-python-using-slack-events-api-django-under-20-minute-code-included-269c3a9bf64e;Python
+How To Make A Reddit Bot;https://www.youtube.com/watch?v=krTUf7BpTc0 ;Python
+Creating Reddit Bot with Python & PRAW;https://www.youtube.com/playlist?list=PLIFBTFgFpoJ9vmYYlfxRFV6U_XhG-4fpP ;Python
+Write your own miniature Redis with Python;http://charlesleifer.com/blog/building-a-simple-redis-server-with-python/;Python
+A workshop on Linux containers: Rebuild Docker from Scratch;https://github.com/Fewbytes/rubber-docker;Python
+A proof-of-concept imitation of Docker, written in 100% Python;https://github.com/tonybaloney/mocker;Python
+Just enough of a Git client to create a repo, commit, and push itself to GitHub;https://benhoyt.com/writings/pygit/;Python
+Optical Character Recognition OCR;http://aosabook.org/en/500L/optical-character-recognition-ocr.html;Python
+Traffic signs classification with a convolutional network;https://navoshta.com/traffic-signs-classification/;Python
+Generate Music using LSTM Neural Network in Keras;https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5;Python
+A Python Interpreter Written in Python;http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html;Python
+Building a search engine using Redis and redis-py;http://www.dr-josiah.com/2010/07/building-search-engine-using-redis-and.html;Python
+Python Tutorial: Make Your Own Text Editor;https://www.youtube.com/watch?v=xqDonHEYPgA ;Python
+Developing a License Plate Recognition System with Machine Learning in Python;https://blog.devcenter.co/developing-a-license-plate-recognition-system-with-machine-learning-in-python-787833569ccd;Python
+Build a Deep Learning Library;https://www.youtube.com/watch?v=o64FV-ez6Gw ;Python
+Recommender Systems in Python: Beginner Tutorial;https://www.datacamp.com/community/tutorials/recommender-systems-python;Python
+Write SMS-spam detector with Scikit-learn;https://medium.com/@kopilov.vlad/detect-sms-spam-in-kaggle-with-scikit-learn-5f6afa7a3ca2;Python
+A Simple Content-Based Recommendation Engine in Python;http://blog.untrod.com/2016/06/simple-similar-products-recommendation-engine-in-python.html;Python
+Stock Market Predictions with LSTM in Python;https://www.datacamp.com/community/tutorials/lstm-python-stock-market;Python
+Creating Your First Blockchain with Java;https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa;Java
+How To Make a Scary Russian Twitter Bot With Java;https://medium.com/@SeloSlav/how-to-make-a-scary-russian-twitter-bot-with-java-b7b62768a3ac;Java
+How to Build an Android Reddit App;https://www.youtube.com/playlist?list=PLgCYzUzKIBE9HUJU-upNvl3TRVAo9W47y;Java
+A Compiler From Scratch;https://www.destroyallsoftware.com/screencasts/catalog/a-compiler-from-scratch;Ruby
+Markdown compiler from scratch in Ruby;https://blog.beezwax.net/2017/07/07/writing-a-markdown-compiler/;Ruby
+How to write a template engine in less than 30 lines of code;http://bits.citrusbyte.com/how-to-write-a-template-library/;Ruby
+A Pedometer in the Real World;http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html;Ruby
+A cryptocurrency implementation in less than 1500 lines of code;https://github.com/conradoqg/naivecoin;Javascript
+Build your own Blockchain in JavaScript;https://github.com/nambrot/blockchain-in-js;Javascript
+Learn & Build a JavaScript Blockchain;https://medium.com/digital-alchemy-holdings/learn-build-a-javascript-blockchain-part-1-ca61c285821e;Javascript
+Creating a blockchain with JavaScript;https://github.com/SavjeeTutorials/SavjeeCoin;Javascript
+How To Launch Your Own Production-Ready Cryptocurrency;https://hackernoon.com/how-to-launch-your-own-production-ready-cryptocurrency-ab97cb773371;Javascript
+Writing a Blockchain in Node.js;https://www.hackdoor.io/articles/writing-a-blockchain-in-nodejs-6512fec33307;Javascript
+A DIY guide to build your own React;https://github.com/hexacta/didact;Javascript
+Building React From Scratch;https://www.youtube.com/watch?v=_MAD4Oly9yg ;Javascript
+Building Your Own React Clone in Five Easy Steps;https://blog.javascripting.com/2016/10/05/building-your-own-react-clone-in-five-easy-steps/;Javascript
+Gooact: React in 160 lines of JavaScript;https://medium.com/@sweetpalma/gooact-react-in-160-lines-of-javascript-44e0742ad60f;Javascript
+Redux: Implementing Store from Scratch;https://egghead.io/lessons/react-redux-implementing-store-from-scratch ;Javascript
+Build Your own Simplified AngularJS in 200 Lines of JavaScript;https://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/;Javascript
+Make Your Own AngularJS;http://teropa.info/blog/2013/11/03/make-your-own-angular-part-1-scopes-and-digest.html;Javascript
+How to write your own Virtual DOM;https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060;Javascript
+Build your own 8-Ball Pool game from scratch;https://www.youtube.com/watch?v=aXwCrtAo4Wc ;Javascript
+How to Make Your First Roguelike;https://gamedevelopment.tutsplus.com/tutorials/how-to-make-your-first-roguelike--gamedev-13677;Javascript
+Neural Network implementation in JavaScript, by an example;https://franpapers.com/en/machine-learning-ai-en/2017-neural-network-implementation-in-javascript-by-an-example/;Javascript
+The Super Tiny Compiler;https://github.com/jamiebuilds/the-super-tiny-compiler;Javascript
+The Super Tiny Interpreter;https://github.com/keyanzhang/the-super-tiny-interpreter;Javascript
+Build a Regex Engine in Less than 40 Lines of Code;https://nickdrane.com/build-your-own-regex/;Javascript
+JavaScript template engine in just 20 lines;http://krasimirtsonev.com/blog/article/Javascript-template-engine-in-just-20-line;Javascript
+How to build a simple actor-based blockchain;https://medium.freecodecamp.org/how-to-build-a-simple-actor-based-blockchain-aac1e996c177;Scala
+Naivecoin: a tutorial for building a cryptocurrency;https://lhartikk.github.io/;TypeScript
+NaivecoinStake: a tutorial for building a cryptocurrency with the Proof of Stake consensus;https://naivecoinstake.learn.uno/;TypeScript
+Reimplementing “git clone” in Haskell from the bottom up;http://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/;Haskell
+Creating a Simple Facebook Messenger AI Bot with API.ai in Node.js;https://tutorials.botsfloor.com/creating-a-simple-facebook-messenger-ai-bot-with-api-ai-in-node-js-50ae2fa5c80d;NodeJS
+How to make a responsive telegram bot;https://www.sohamkamani.com/blog/2016/09/21/making-a-telegram-bot/;NodeJS
+Create a Discord bot;https://discordjs.guide/;NodeJS
+gifbot - Building a GitHub App;https://blog.scottlogic.com/2017/05/22/gifbot-github-integration.html;NodeJS
+Building A Simple AI Chatbot With Web Speech API And Node.js;https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/;NodeJS
+How to create a real-world Node CLI app with Node;https://medium.freecodecamp.org/how-to-create-a-real-world-node-cli-app-with-node-391b727bbed3;NodeJS
+A bot for Starcraft in Rust, C or any other language;https://habr.com/en/post/436254/;Rust
+Adventures in Rust: A Basic 2D Game;https://a5huynh.github.io/posts/2018/adventures-in-rust/;Rust
+Roguelike Tutorial in Rust + tcod;https://tomassedovic.github.io/roguelike-tutorial/;Rust
+Building a DNS server in Rust;https://github.com/EmilHernvall/dnsguide/blob/master/README.md;Rust
+A Regular Expression Matcher;https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html;C/C++
+Regular Expression Matching Can Be Simple And Fast;https://swtch.com/~rsc/regexp/regexp1.html;C/C++
+How to write an emulator CHIP-8 interpreter;http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/;C/C++
+Emulation tutorial CHIP-8 interpreter;http://www.codeslinger.co.uk/pages/projects/chip8.html;C/C++
+Emulation tutorial GameBoy emulator;http://www.codeslinger.co.uk/pages/projects/gameboy.html;C/C++
+Emulation tutorial Master System emulator;http://www.codeslinger.co.uk/pages/projects/mastersystem/memory.html;C/C++
+NES Emulator From Scratch;https://www.youtube.com/playlist?list=PLrOv9FMX8xJHqMvSGB_9G9nZZ_4IgteYf ;C/C++
+Designing a Simple Text Editor;http://www.fltk.org/doc-1.1/editor.html;C/C++
+Build your own VR headset for $100;https://github.com/relativty/Relativ;C/C++
+How X Window Managers work and how to write one;https://seasonofcode.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i.html;C/C++
+How a 64k intro is made;http://www.lofibucket.com/articles/64k_intro.html;C/C++
