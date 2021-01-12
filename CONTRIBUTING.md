@@ -2,7 +2,7 @@
 
 
 You can fork and edit the CSV file by click here:
-https://github.com/aquadzn/project-based-learning/edit/main/projects.csv
+https://github.com/aquadzn/learn-x-by-doing-y/edit/main/projects.csv
 
 
 Before making a pull request, please make sure of the following:
