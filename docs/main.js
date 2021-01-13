@@ -2,6 +2,7 @@ const searchClient = algoliasearch('08KMSERF1B', '96b7ec122afe6711386467472aaf7a
 
 const search = instantsearch({
     indexName: 'Project',
+    routing: true,
     searchClient,
 });
 

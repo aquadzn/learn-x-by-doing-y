@@ -1,5 +1,8 @@
 name: Update Algolia
-on: push
+on:
+  push:
+    branches:
+      - main
 jobs:
   update-algolia:
     name: Check for projects.csv updates and add records to Algolia
