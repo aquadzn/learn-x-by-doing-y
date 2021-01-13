@@ -18,7 +18,7 @@ def add_records(filename: str):
             index.save_objects(
                 csv_r[len_idx:], {"autoGenerateObjectIDIfNotExist": "true"}
             )
-            print(f"{len(csv_r[len_idx:]) - 1} new records added.")
+            print(f"{len(csv_r[len_idx:])} new records added.")
             return
 
     print("Nothing new.")
