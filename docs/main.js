@@ -31,7 +31,7 @@ const renderHits = (renderOptions, isFirstRender) => {
                                     </a>
                                 </div>
                                 <div class="mt-2 px-3 py-1 text-sm bg-purple-500 rounded-full text-gray-100 font-bold break-words">
-                                    ${instantsearch.highlight({ attribute: 'technology', hit: item })}
+                                    ${instantsearch.highlight({ attribute: 'technologies', hit: item })}
                                 </div>
                             </div>
                             `
@@ -170,6 +170,45 @@ const customPagination = instantsearch.connectors.connectPagination(
     renderPagination
 );
 
+// Create the render function
+const renderMenuSelect = (renderOptions, isFirstRender) => {
+    const { items, canRefine, refine, widgetParams } = renderOptions;
+
+    if (isFirstRender) {
+        const select = document.createElement('select');
+        select.classList.add('rounded-md', 'shadow-lg', 'cursor-pointer', 'w-full', 'py-3', 'px-5', 'text-purple-500', 'text-center', 'bg-white', 'hover:text-purple-600', 'focus:outline-none', 'focus:ring-4', 'focus:ring-purple-500', 'focus:ring-opacity-70')
+
+        select.addEventListener('change', event => {
+            refine(event.target.value);
+        });
+
+        widgetParams.container.appendChild(select);
+    }
+
+    const select = widgetParams.container.querySelector('select');
+
+    select.disabled = !canRefine;
+
+    select.innerHTML = `
+      <option value="">All languages</option>
+      ${items
+            .map(
+                item =>
+                    `<option
+              value="${item.value}"
+              ${item.isRefined ? 'selected' : ''}
+            >
+              ${item.label}
+            </option>`
+            )
+            .join('')}
+    `;
+};
+
+// Create the custom widget
+const customMenuSelect = instantsearch.connectors.connectMenu(renderMenuSelect);
+
+
 search.addWidgets([
     customSearchBox({
         container: document.querySelector('#searchbox'),
@@ -183,45 +222,14 @@ search.addWidgets([
         container: document.querySelector('#pagination'),
     }),
 
+    customMenuSelect({
+        container: document.querySelector('#menu-select'),
+        attribute: 'main_language',
+    }),
+
     instantsearch.widgets.configure({
         hitsPerPage: 12
     }),
-    // instantsearch.widgets.hits({
-    //     container: '#hits',
-    //     templates: {
-    //         item(hit) {
-    //             return `
-    //                 <div class="flex-1">
-    //                     ${instantsearch.highlight({ attribute: 'title', hit })}
-    //                 </div>
-    //             `;
-    //         },
-    //     },
-    // }),
-
-    // instantsearch.widgets.currentRefinements({
-    //     container: '#current-refinements',
-    // }),
-
-    // instantsearch.widgets.clearRefinements({
-    //     container: '#clear-refinements',
-    // }),
-
-    // instantsearch.widgets.refinementList({
-    //     container: '#names-list',
-    //     attribute: 'subject_name',
-    //     templates: {
-    //         item(item) {
-    //             const { url, label, count, isRefined } = item;
-
-    //             return `
-    //         <a href="${url}" style="${isRefined ? 'font-weight: bold' : ''}">
-    //             ${label} (${count})
-    //         </a>
-    //     `;
-    //         },
-    //     },
-    // }),
 
 ]);
 
