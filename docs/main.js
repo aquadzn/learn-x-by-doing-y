@@ -198,7 +198,7 @@ const renderMenuSelect = (renderOptions, isFirstRender) => {
               value="${item.value}"
               ${item.isRefined ? 'selected' : ''}
             >
-              ${item.label}
+              ${item.label} (${item.count})
             </option>`
             )
             .join('')}
