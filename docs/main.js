@@ -225,6 +225,7 @@ search.addWidgets([
     customMenuSelect({
         container: document.querySelector('#menu-select'),
         attribute: 'main_language',
+        limit: 25,
     }),
 
     instantsearch.widgets.configure({
