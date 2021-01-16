@@ -249,7 +249,7 @@ Spotify Login Animation With React Navigation;https://dev.to/elaziziyoussouf/spo
 Dynamic Weather Interface with just CSS;https://dev.to/comscience/dynamic-weather-app-using-just-css-cp2;HTML;HTML, CSS
 Simple CRUD App with Airtable and Vue;https://dev.to/codeply/build-a-simple-crud-app-with-airtable-api-vue-vuetify-5565;Javascript;Vue, Vuetify, Airtable, API, HTML
 Full Stack RPG Character Generator with MEVN stack;https://www.freecodecamp.org/news/build-a-full-stack-mevn-app/;Javascript;NodeJS, MongoDB, Express, Vue, HTML
-Todo App with the PERN stack;https://www.freecodecamp.org/news/learn-the-pern-stack-full-course/;Express;PostgreSQL, Express, React, NodeJS, HTML
+Todo App with the PERN stack;https://www.freecodecamp.org/news/learn-the-pern-stack-full-course/;Javascript;Express, React, NodeJS, PostgreSQL, HTML
 Summer Road Trip Mapping App with Gatsby;https://www.freecodecamp.org/news/how-to-create-a-summer-road-trip-mapping-app-with-gatsby-and-leaflet/;Javascript;React, Gatsby, Leaflet
 COVID-19 Dashboard and Map App with Gatsby;https://www.freecodecamp.org/news/how-to-create-a-coronavirus-covid-19-dashboard-map-app-in-react-with-gatsby-and-leaflet/;Javascript;React, Gatsby, Leaflet
 Flashcard Quiz With React;https://www.youtube.com/watch?v=hEtZ040fsD8;Javascript;React, API, Javascript, HTML, CSS
@@ -283,34 +283,21 @@ Simple Authentication and Authorization;https://medium.com/javascript-in-plain-e
 Cryptocurrency Tracker;https://medium.com/javascript-in-plain-english/build-a-cryptocurrency-tracker-with-next-js-and-apollo-graphql-c776cff6b8bf;Javascript;NextJS, GraphQL, Apollo, NodeJS, Javascript
 Instant Search With Vanilla Javascript;https://www.florin-pop.com/blog/2019/06/vanilla-javascript-instant-search/;Javascript;Javascript, HTML, CSS
 Calculator App;https://zellwk.com/blog/calculator-part-1;Javascript;Javascript, HTML, CSS
-Todo App;https://www.youtube.com/watch?v=78tNYZUS-ps;Javascript;Vue, Javascript, CSS, HTML
-Blog App;https://scotch.io/tutorials/build-a-blog-with-vue-graphql-and-apollo-client;Javascript;Vue, GraphQL, Apollo, Javascript, CSS3
 Simple Budgeting App;https://matthiashager.com/complete-vuejs-application-tutorial;Javascript;Vue, Bulma, Javascript, CSS, HTML
 Search Bot;https://www.freecodecamp.org/news/how-to-build-a-simple-search-bot-in-30-minutes-eb56fcedcdb1/;Javascript;NodeJS, Twilio, Cheerio, API, Automation
-Twitter Bot;https://codeburst.io/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078;Javascript;NodeJS, Javascript, API, Automation
-Real-Time Markdown Editor;https://scotch.io/tutorials/building-a-real-time-markdown-viewer;Javascript;NodeJS, Javascript, Express, Redis, HTML
 Todo App;http://www.discoversdk.com/blog/intro-to-angular-and-the-evolution-of-the-web;Javascript;Angular, TypeScript, RxJS, HTML, CSS
-Hacker News Client;https://houssein.me/angular2-hacker-news;Javascript;Angular, RxJS, Webpack, HTML, CSS
-Random Quote Machine;https://www.youtube.com/watch?v=3QngsWA9IEE;Javascript;React, Javascript, HTML, CSS
-Todoist Clone;https://www.youtube.com/watch?v=hT3j87FMR6M;Javascript;React, Firebase, Javascript, Testing, HTML
-Chat App with Sentiment Analysis;https://hackernoon.com/build-an-appointment-scheduler-using-react-twilio-and-cosmic-js-95377f6d1040;Javascript;NextJS, Pusher, Sentiment, NodeJS, React
-Appointment Scheduler;https://hackernoon.com/build-an-appointment-scheduler-using-react-twilio-and-cosmic-js-95377f6d1040;Javascript;React, Twilio, CosmicJS, Material-UI, Javascript
 Game of Life;https://www.freecodecamp.org/news/create-gameoflife-with-react-in-one-hour-8e686a410174;Javascript;React, 2D, Javascript, HTML, CSS
 News App;https://www.freecodecamp.org/news/create-a-news-app-using-react-native-ced249263627;Javascript;React Native, NodeJS, API, React, Javascript
 Chat App;https://www.freecodecamp.org/news/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a/;Javascript;React, Redux, Redux Saga, Web Sockets, Node
 Todo App;https://hasura.io/blog/tutorial-fullstack-react-native-with-graphql-and-authentication-18183d13373a;Javascript;React Native, GraphQL, Apollo, API, Hasura
 Chrome Extension;https://www.freecodecamp.org/news/building-chrome-extensions-in-react-parcel-79d0240dd58f/;Javascript;React, Parcel, Javascript, HTML, CSS
-Real-Time Twitter Stream;https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js;Javascript;React, NodeJS, API, Express, Handlebars
-Movie Voting App;https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html;Javascript;React, Redux, API, Immutable, Javascript
 Trello Clone;http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1;Javascript;React, Elixir, Phoenix, JWT, Javascript
-Wiki-Style CMS;https://www.youtube.com/playlist?list=PLVMqA0_8O85yC78I4Xj7z48ES48IQBa7p;C#;C#, .NET, Razor Pages
 Spotify Inspired Web Design;https://www.youtube.com/watch?v=uKgn-To1C4Q;HTML;HTML, CSS
-Microsoft Homepage Clone;https://www.youtube.com/watch?v=uKgn-To1C4Q;HTML;HTML, CSS, Javascript
 Simple Gantt Chart;https://webdesign.tutsplus.com/tutorials/build-a-simple-gantt-chart-with-css-and-javascript--cms-33813;HTML;HTML, CSS, Javascript
 Job Scraping App;https://www.freecodecamp.org/news/how-i-built-a-job-scraping-web-app-using-node-js-and-indreed-7fbba124bbdc/;Javascript;NodeJS, Javascript, REST, API, Express
 E-Commerce App;https://www.youtube.com/watch?v=wPQ1-33teR4;Javascript;React, Bootstrap, Javascript, HTML, CSS
 Netflix Landing Page;https://www.youtube.com/watch?v=P7t13SGytRk;HTML;HTML, CSS, Javascript
-AI Chatbot;https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js;NodeJS;Web Speech API, NodeJS, Javascript, Express, Socket.io
+AI Chatbot;https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js;Javascript;Javascript, Web Speech API, NodeJS, Express, Socket.io
 Social Networking App;https://www.youtube.com/watch?v=m_u6P5k0vP0;Javascript;React, NodeJS, Redux, Firebase, REST
 Blockchain;https://www.hackdoor.io/articles/BwJeDQnm/writing-a-blockchain-in-node-js;Javascript;NodeJS, Javascript, Cryptography, Blockchain
 BitTorrent Client;https://allenkim67.github.io/programming/2016/05/04/how-to-make-your-own-bittorrent-client.html;Javascript;NodeJS, Javascript, TCP, Computer Networks
@@ -342,22 +329,8 @@ Multiplayer Card Game with Unity 2D and Mirror;https://www.freecodecamp.org/news
 Roguelike Tutorial in Rust;https://tomassedovic.github.io/roguelike-tutorial/;Rust;Rust, 2D
 Adventures in Rust - A Basic 2D Game;https://a5huynh.github.io/posts/2018/adventures-in-rust/;Rust;Rust, 2D
 Terminal Snake Game with Ruby;https://diatomenterprises.com/gamedev-on-ruby-why-not/;Ruby;Ruby, 2D
-Space Invaders using OpenGL;http://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html;C/C++;OpenGL, C/C++, 2D
 Sudoku Solver in C;https://www.youtube.com/watch?v=9aMUyoYDI-0&list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW;C/C++;C/C++, 2D
 Chess Engine In C;https://www.youtube.com/watch?v=bGAfaepBco4&list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg&index=1&t=0s;C/C++;C/C++, 2D
-Flappy Bird iOS Game using Swift;https://www.raywenderlich.com/3875-how-to-make-a-game-like-flappy-bird;Swift;Swift, XCode, iOS
-Bull's Eye iOS Game using Swift;https://www.raywenderlich.com/4919757-your-first-ios-and-swiftui-app;Swift;Swift, XCode, iOS
-Whack-a-Mole with pure Javascript;https://www.youtube.com/watch?v=o93jem7oPnA;Javascript;Javascript, HTML, CSS
-NOKIA 3310 Snake Game using Javascript;https://www.youtube.com/watch?v=rui2tRRVtc0;Javascript;Javascript, HTML, CSS
-Rock Paper Scissors in vanilla Javascript;https://www.youtube.com/watch?v=mXrTIpYoCPE;Javascript;Javascript, HTML, CSS
-Tetris with pure Javascript;https://www.youtube.com/watch?v=GWPGz9hrVMk;Javascript;Javascript, HTML, CSS
-Multiplayer Quiz Game with Vue;https://medium.com/front-end-weekly/build-a-multiplayer-quiz-game-with-vue-js-ca22bad8fb52;Javascript;Vue, Pusher, NodeJS, Express, Javascript
-Minesweeper Game with Vue;https://medium.com/javascript-in-plain-english/minesweeper-rebuild-with-vue-vuex-and-vuetify-ab1921e5258e;Javascript;Vue, Vuex, Vuetify, Javascript, HTML
-Tetris Game in React;https://www.youtube.com/watch?v=ZGOaCxX8HIU;Javascript;React, Javascript, HTML, CSS
-2D Breakout Game;https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_Javascript;Javascript;Javascript, HTML, CSS
-Sprite Animation;https://medium.com/dailyjs/how-to-build-a-simple-sprite-animation-in-javascript-b764644244aa;Javascript;Javascript, HTML, CSS
-Snake Game;https://www.freecodecamp.org/news/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e/;Javascript;Javascript, HTML, CSS
-Memory Game;https://medium.com/free-code-camp/vanilla-javascript-tutorial-build-a-memory-game-in-30-minutes-e542c4447eae;Javascript;Javascript, HTML, CSS
 Tanks Shooter;https://learn.unity.com/project/tanks-tutorial;C#;C#, Unity, 3D
 2D Roguelike;https://learn.unity.com/project/2d-roguelike-tutorial;C#;C#, Unity, 2D
 John Lemon's Haunted Jaunt 3D;https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner;C#;C#, Unity, 3D
@@ -368,48 +341,18 @@ Roll-a-ball;https://learn.unity.com/project/roll-a-ball-tutorial;C#;C#, Unity, 3
 FPS Microgame;https://learn.unity.com/project/fps-template?courseId=5c59cf22edbc2a001f59aa5d;C#;C#, Unity
 Platformer Microgame;https://learn.unity.com/project/2d-platformer-template?courseId=5c59cf22edbc2a001f59aa5d;C#;C#, Unity, 2D
 Karting Microgame;https://learn.unity.com/project/karting-template?courseId=5c59cf22edbc2a001f59aa5d;C#;C#, Unity
-Game of Life;https://www.freecodecamp.org/news/create-gameoflife-with-react-in-one-hour-8e686a410174;Javascript;React, 2D, Javascript, HTML, CSS
 Handmade Hero;https://handmadehero.org/watch;C/C++;C/C++, OpenGL, 2D
 Breakout;https://learnopengl.com/In-Practice/2D-Game/Breakout;C/C++;C/C++, OpenGL, 2D
-Tetris;http://javilop.com/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners/;C/C++;C/C++, 2D
-NES game;https://nesdoug.com/;C/C++;C/C++, Python, 2D
-Roguelike Game;https://roguesharp.wordpress.com/;C#;C#, .NET, RogueSharp, MonoGame, RLNet
 Simple RPG Game;http://scottlilly.com/learn-c-by-building-a-simple-rpg-index;C#;C#, SQL, 2D
 CNN that Detects Pneumonia from Chest X-Rays;https://towardsdatascience.com/pneumonia-detection-pushing-the-boundaries-of-human-ability-with-deep-learning-ce08dbd0dc20;Python;CNN, Python
 Auto-Updating Data Visualizations in Python with AWS;https://www.freecodecamp.org/news/how-to-create-auto-updating-data-visualizations-in-python-with-matplotlib-and-aws/;Python;Python, AWS, Matplotlib
 Twitter Sentiment Analysis Tool using GCP and Node;https://www.freecodecamp.org/news/how-to-build-a-twitter-sentiment-analysis-tool/;Javascript;Javascript, NodeJS, API, GCP
-Twitter Sentiment Analysis using CNN;https://towardsdatascience.com/another-twitter-sentiment-analysis-bb5b01ebad90;Python;Python, Matplotlib, Numpy, Pandas
-Taylor Swift Lyrics Generator;https://towardsdatascience.com/ai-generates-taylor-swifts-song-lyrics-6fd92a03ef7e;Python;Python, Keras, Numpy, Pandas
-MNIST Digit Recognizer;https://medium.com/@lvarruda/how-to-get-top-2-position-on-kaggles-mnist-digit-recognizer-48185d80a2d4;Python;Python, Keras, TensorFlow, Numpy, SciKit
-Train a Model to Generate Colors;https://heartbeat.fritz.ai/how-to-train-a-keras-model-to-generate-colors-3bc79e54971b;Python;Python, Keras, TensorFlow, Numpy
-Image Caption Generator;https://medium.freecodecamp.org/building-an-image-caption-generator-with-deep-learning-in-tensorflow-a142722e9b1f;Python;Python, TensorFlow, Numpy
-Break a Captcha System using CNN;https://medium.com/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710;Python;Python, Keras, TensorFlow, OpenCV, Numpy
-Generate an Average Face;https://www.learnopencv.com/average-face-opencv-c-python-tutorial/;Python;Python, OpenCV, Numpy, C/C++
-Image Stitching;https://www.pyimagesearch.com/2018/12/17/image-stitching-with-opencv-and-python/;Python;Python, OpenCV, Numpy
-Hand Keypoint Detection;https://www.learnopencv.com/hand-keypoint-detection-using-deep-learning-and-opencv/;Python;Python, OpenCV, Numpy, C/C++
-Eigenface;https://www.learnopencv.com/eigenface-using-opencv-c-python/;Python;Python, OpenCV, Numpy, C/C++
-Drone Target Detection;https://www.pyimagesearch.com/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-and-opencv/;Python;Python, OpenCV, Numpy
-Object Detection using Mask R-CNN;https://www.learnopencv.com/deep-learning-based-object-detection-and-instance-segmentation-using-mask-r-cnn-in-opencv-python-c/;Python;Python, OpenCV, Numpy
-Facial Landmark Detection;https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/;Python;Python, OpenCV, DLib, Numpy
-Text Skew Correction;https://www.pyimagesearch.com/2017/02/20/text-skew-correction-opencv-python/;Python;Python, OpenCV, Numpy
-OCR and Text Recognition;https://www.pyimagesearch.com/2018/09/17/opencv-ocr-and-text-recognition-with-tesseract/;Python;Python, OpenCV, Tesseract, Numpy
-People Counter;https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/;Python;Python, OpenCV, Numpy
-Text Detection;https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/;Python;Python, OpenCV, Numpy
-Semantic Segmentation;https://www.pyimagesearch.com/2018/09/03/semantic-segmentation-with-opencv-and-deep-learning/;Python;Python, OpenCV, Numpy
-Object Tracking;https://www.pyimagesearch.com/wp-content/uploads/2014/11/opencv_crash_course_camshift.pdf;Python;Python, OpenCV, Numpy, CamShift
-Face Clustering;https://www.pyimagesearch.com/2018/07/09/face-clustering-with-python/;Python;Python, OpenCV, Numpy
-Barcode Scanner;https://www.pyimagesearch.com/2018/05/21/an-opencv-barcode-and-qr-code-scanner-with-zbar/;Python;Python, OpenCV, ZBar, Numpy
-Saliency Detection;https://www.pyimagesearch.com/2018/07/16/opencv-saliency-detection/;Python;Python, OpenCV, Numpy
-Face Detection;https://www.pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/;Python;Python, OpenCV, Numpy
-Document Scanner;https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/;Python;Python, OpenCV, Numpy, SciKit
-Music Recommender;https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85;Python;Python, SciKit, Numpy, Pandas
 Predict Quality of Wine;https://www.freecodecamp.org/news/using-data-science-to-understand-what-makes-wine-taste-good-669b496c67ee/;Python;Python, Matplotlib, Numpy, Pandas
 Genetic Algorithms;https://www.youtube.com/watch?v=dSofAXnnFrY;Python;Python, SciKit, Numpy, Pandas
 DeepDream;https://www.youtube.com/watch?v=MrBzgvUNr4w;Python;Python, TensorFlow, Visualization
 Stock Price Prediction;https://www.youtube.com/watch?v=SSu00IRRraY;Python;Python, SciKit, Matplotlib
 Movie Recommendation Systems;https://www.youtube.com/watch?v=9gBC9R-msAk;Python;Python, LightFM
 Twitter Sentiment Analysis;https://www.youtube.com/watch?v=o_OZdbCzHUA;Python;Python, API
-Build an Appointment Scheduler Using React, Twilio and Cosmic JS;https://hackernoon.com/build-an-appointment-scheduler-using-react-twilio-and-cosmic-js-95377f6d1040;Javascript;NextJS, Pusher, Sentiment, NodeJS, React
 Create a Voice assistant using python;https://www.geeksforgeeks.org/voice-assistant-using-python/;Python;Python
 Vue 2 + Pub/Sub: Build a peer to peer multi-user platform for games;https://www.ably.io/tutorials/peer-to-peer-vue;Javascript;Vue
 Build a Community-driven delivery application with Django, Postgres and Javascript;https://medium.com/egen/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead-4522e1d98739;Python;Python, Django, Javascript
@@ -458,7 +401,6 @@ Build a minimal multi-tasking OS kernel for ARM from scratch;https://github.com/
 Build Your Own Shell;https://github.com/tokenrove/build-your-own-shell;C/C++;C/C++
 Building an Operating System for the Raspberry Pi;https://jsandler18.github.io/;C/C++;C/C++
 Hack the Virtual Memory;https://blog.holbertonschool.com/hack-virtual-memory-stack-registers-assembly-code/;C/C++;C/C++
-How to Create an OS from Scratch;https://github.com/cfenollosa/os-tutorial;C/C++;C/C++
 Learning operating system development using Linux kernel and Raspberry Pi;https://github.com/s-matyukevich/raspberry-pi-os;C/C++;C/C++
 Let's build a shell!;https://github.com/kamalmarhubi/shell-workshop;C/C++;C/C++
 Let's Write a Malloc;https://danluu.com/malloc-tutorial/;C/C++;C/C++
@@ -468,7 +410,6 @@ Write a System Call;https://brennan.io/2016/11/14/kernel-dev-ep3/;C/C++;C/C++
 Writing a shell in C;https://danishprakash.github.io/2018/01/15/write-a-shell.html;C/C++;C/C++
 Writing a Unix Shell;https://indradhanush.github.io/blog/writing-a-unix-shell-part-1;C/C++;C/C++
 Baby's First Garbage Collector;http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/;C/C++;C/C++
-Build Your Own Lisp;http://www.buildyourownlisp.com/;C/C++;C/C++
 Compiler Design in C;https://holub.com/goodies/compiler/compilerDesignInC.pdf;C/C++;C/C++
 Let's Build a Compiler: A C & x86 version;https://github.com/lotabout/Let-s-build-a-compiler;C/C++;C/C++
 Write a C Interpreter;https://github.com/lotabout/write-a-C-interpreter;C/C++;C/C++
@@ -493,7 +434,6 @@ Building a BitTorrent client from the ground up in Go;https://blog.jse.li/posts/
 Building Blockchain in Go;https://jeiwan.cc/posts/building-blockchain-in-go-part-1/;Golang;Golang
 Code your own blockchain in less than 200 lines of Go;https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc;Golang;Golang
 Build Your Own Container Using Less than 100 Lines of Go;https://www.infoq.com/articles/build-a-container-golang;Golang;Golang
-Building a container from scratch in Go;https://www.youtube.com/watch?v=8fi7uSYlOdc;Golang;Golang
 Build a multilayer perceptron with Golang;https://made2591.github.io/posts/neuralnetwork;Golang;Golang
 How to build a simple artificial neural network with Go;https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/;Golang;Golang
 Building a Neural Net from Scratch in Go;https://datadan.io/blog/neural-net-with-go;Golang;Golang
@@ -501,14 +441,12 @@ The Super Tiny Compiler;https://github.com/hazbo/the-super-tiny-compiler;Golang;
 Lexical Scanning in Go;https://www.youtube.com/watch?v=HxaD_trXwRE;Golang;Golang
 Writing a simple shell in Go;https://sj14.gitlab.io/post/2018-07-01-go-unix-shell/;Golang;Golang
 Let's Create a Simple Load Balancer;https://kasvith.github.io/posts/lets-create-a-simple-lb-go/;Golang;Golang
-Write your own bittorrent client;https://allenkim67.github.io/programming/2016/05/04/how-to-make-your-own-bittorrent-client.html;Javascript;NodeJS
 A BitTorrent client in Python 3.5;http://markuseliasson.se/article/bittorrent-in-python/;Python;Python
 Build your own blockchain: a Python tutorial;http://ecomunsing.com/build-your-own-blockchain;Python;Python
 A Practical Introduction to Blockchain with Python;http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/;Python;Python
 Let’s Build the Tiniest Blockchain;https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b;Python;Python
 How to Build Your First Slack Bot with Python;https://www.fullstackpython.com/blog/build-first-slack-bot-python.html;Python;Python
 How to build a Slack Bot with Python using Slack Events API & Django under 20 minute;https://medium.com/freehunch/how-to-build-a-slack-bot-with-python-using-slack-events-api-django-under-20-minute-code-included-269c3a9bf64e;Python;Python
-How To Make A Reddit Bot;https://www.youtube.com/watch?v=krTUf7BpTc0;Python;Python
 Creating Reddit Bot with Python & PRAW;https://www.youtube.com/playlist?list=PLIFBTFgFpoJ9vmYYlfxRFV6U_XhG-4fpP;Python;Python
 Write your own miniature Redis with Python;http://charlesleifer.com/blog/building-a-simple-redis-server-with-python/;Python;Python
 A workshop on Linux containers: Rebuild Docker from Scratch;https://github.com/Fewbytes/rubber-docker;Python;Python
@@ -562,11 +500,8 @@ Creating a Simple Facebook Messenger AI Bot with API.ai in Node.js;https://tutor
 How to make a responsive telegram bot;https://www.sohamkamani.com/blog/2016/09/21/making-a-telegram-bot/;Javascript;NodeJS
 Create a Discord bot;https://discordjs.guide/;Javascript;NodeJS
 gifbot - Building a GitHub App;https://blog.scottlogic.com/2017/05/22/gifbot-github-integration.html;Javascript;NodeJS
-Building A Simple AI Chatbot With Web Speech API And Node.js;https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/;Javascript;NodeJS
 How to create a real-world NodeJS CLI app;https://medium.freecodecamp.org/how-to-create-a-real-world-node-cli-app-with-node-391b727bbed3;Javascript;NodeJS
 A bot for Starcraft in Rust, C or any other language;https://habr.com/en/post/436254/;Rust;Rust
-Adventures in Rust: A Basic 2D Game;https://a5huynh.github.io/posts/2018/adventures-in-rust/;Rust;Rust
-Roguelike Tutorial in Rust + tcod;https://tomassedovic.github.io/roguelike-tutorial/;Rust;Rust
 Building a DNS server in Rust;https://github.com/EmilHernvall/dnsguide/blob/master/README.md;Rust;Rust
 A Regular Expression Matcher;https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html;C/C++;C/C++
 Regular Expression Matching Can Be Simple And Fast;https://swtch.com/~rsc/regexp/regexp1.html;C/C++;C/C++
