@@ -101,7 +101,7 @@ const renderPagination = (renderOptions, isFirstRender) => {
     const container = document.querySelector('#pagination');
 
     container.innerHTML = `
-    <ul class="flex mx-auto list-reset">
+    <ul class="flex flex-wrap mx-auto list-reset">
       ${!isFirstPage
             ? `
             <li>
