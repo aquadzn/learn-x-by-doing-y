@@ -15,14 +15,14 @@ const renderHits = (renderOptions, isFirstRender) => {
     // Handle empty results
     widgetParams.container.innerHTML =
         hits.length < 1
-            ? `<div class="col-span-2 md:col-span-4"><p class="text-lg md:text-2xl text-gray-200 text-center font-semibold font-heading">Sorry, no results found!</p></div>`
+            ? `<div class="col-span-2 lg:col-span-4"><p class="text-lg lg:text-2xl text-gray-200 text-center font-semibold font-heading">Sorry, no results found!</p></div>`
             : `
                 ${hits
                 .map(
                     item =>
                         `
                             <a class="bg-white bg-opacity-10 shadow-xl rounded-md p-4 transition duration-100 ease-in-out transform hover:-translate-y-1 hover:scale-105 hover:bg-opacity-20" href="${item.url}" target="_blank">
-                                <h3 class="text-lg md:text-2xl text-gray-200 text-left font-semibold font-heading hover:text-gray-300">
+                                <h3 class="text-lg lg:text-2xl text-gray-200 text-left font-semibold font-heading hover:text-gray-300">
                                     ${instantsearch.highlight({ attribute: 'title', hit: item })}
                                 </h3>
                                 <div class="mt-2 text-purple-400 font-bold text-left break-words">
@@ -211,7 +211,6 @@ const renderMenuSelect = (renderOptions, isFirstRender) => {
     const select = widgetParams.container.querySelector('select');
 
     select.disabled = !canRefine;
-
     select.innerHTML = `
       <option value="">All languages</option>
       ${items
