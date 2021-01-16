@@ -386,7 +386,6 @@ How to Program a Text Adventure in C;https://helderman.github.io/htpataic/htpata
 Implementing Solitaire in C;https://jborza.github.io/games/2020/07/12/solitaire-cli.html;C/C++;C/C++
 Invaders Clone;https://gtk.dashgl.com/?folder=Invaders;C/C++;C/C++
 Learn How To Develop Your Own GameBoy Games;https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo;C/C++;C/C++
-Make a GameBoy Advance game;http://coranac.com/tonc/text/;C/C++;C/C++,GameBoy
 Learn Video Game Programming in C;https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt;C/C++;C/C++
 Let's Make: Dangerous Dave;https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9;C/C++;C/C++
 Making a game in C from scratch;https://www.youtube.com/playlist?list=PL7Ej6SUky1357r-Lqf_nogZWHssXP-hvH;C/C++;C/C++
@@ -980,6 +979,6 @@ Jamstack membership site with Eleventy & Memberstack;https://howtocode.io/jamsta
 Jamstack blog with Hugo & Netlify;https://howtocode.io/jamstack-hugo-netlify-zapier;Javascript;Hugo, Netlify, Zapier, Jamstack
 Build a Travel Site with Tailwind CSS;https://howtocode.io/tutorials/tailwind-css-travel-site;HTML;HTML, CSS, Tailwind
 Create a Roguelike game in C++ and Unreal Engine;https://www.tomlooman.com/stanford-cs193u/;C++;C++, Unreal Engine
-Learn OpenGL;https://learnopengl.com/;C/C++;C/C++,opengl
-Learn C/C++ by making you own game engine;https://www.3dgep.com/cpp-fast-track-1-getting-started/;C/C++;C/C++,OpenGL
-Advanced Unity tutorials to learn about games and graphics;https://catlikecoding.com/unity/tutorials/;C#;C#,Unity,CG
+Make a GameBoy Advance game;http://coranac.com/tonc/text/;C/C++;C/C++, GameBoy
+Learn C/C++ by making you own game engine;https://www.3dgep.com/cpp-fast-track-1-getting-started/;C/C++;C/C++, OpenGL
+Advanced Unity tutorials to learn about games and graphics;https://catlikecoding.com/unity/tutorials/;C#;C#, Unity, CG
