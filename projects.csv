@@ -982,3 +982,5 @@ Create a Roguelike game in C++ and Unreal Engine;https://www.tomlooman.com/stanf
 Make a GameBoy Advance game;http://coranac.com/tonc/text/;C/C++;C/C++, GameBoy
 Learn C/C++ by making you own game engine;https://www.3dgep.com/cpp-fast-track-1-getting-started/;C/C++;C/C++, OpenGL
 Advanced Unity tutorials to learn about games and graphics;https://catlikecoding.com/unity/tutorials/;C#;C#, Unity, CG
+Build your own JIRA with Rust (Rust London Code Dojo);https://github.com/LukeMathWalker/build-your-own-jira-with-rust;Rust;Rust
+A Jira clone built with Vuejs & Nodejs/Graphql;https://github.com/Datlyfe/jira_clone;Javascript;Vue, NodeJS, GraphQL
