@@ -985,3 +985,4 @@ Advanced Unity tutorials to learn about games and graphics;https://catlikecoding
 Build your own JIRA with Rust (Rust London Code Dojo);https://github.com/LukeMathWalker/build-your-own-jira-with-rust;Rust;Rust
 A Jira clone built with Vuejs & Nodejs/Graphql;https://github.com/Datlyfe/jira_clone;Javascript;Vue, NodeJS, GraphQL
 Rebuilding Git in Ruby;https://thoughtbot.com/blog/rebuilding-git-in-ruby;Ruby;Ruby, CVS
+Hecto: Build your own text editor in Rust;https://www.philippflenker.com/hecto/;Rust
